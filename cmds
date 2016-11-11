@@ -1,0 +1,2 @@
+ ansible-playbook -i inventory/byo/hosts.origin playbooks/byo/config.yml
+
